@@ -1,0 +1,5 @@
+{
+    "displayName":"Sepia Contrasted Theme",
+    "description":"Sepia Contrasted theme for Visual Studio Code. The theme aims to respect the accessibility (a11y) contrast rules up to WCAG level AA (contrast ratio of at least 4.5:1). Based on Solarized Light Theme.",
+    "themeLabel":"Sepia Contrasted"
+}
